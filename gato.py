@@ -1,2 +1,3 @@
 print("Successfully Print to world")
-input()
+name = input("Ingrese su nombre")
+print(name)
